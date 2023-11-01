@@ -1,5 +1,6 @@
 # Failure-Prediction-Analysis
 Coal Injection systems are used in sponge iron rotary kilns to improve thermal efficiency and reduce fuel costs. Advanced failure prediction methods can help identify potential problems and prevent failure before it occurs in such systems.
+
 **Problem Statement**
 The coal is driven to the rotary kiln through lances/pipes injection systems. Over time the use of these injection systems (movement of coal) causes wear of the lance which cannot be predicted other than a visual inspection. Once a visual failure is observed, the plant stops production to make the necessary repairs which otherwise decreases production quality and contributes to several other economic issues.
 
